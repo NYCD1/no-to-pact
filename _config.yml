@@ -15,7 +15,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Why You Should Say No to PACT
-  tagline: Don't Sell Out Your Own Home For A Private Company For Profit
+  tagline: Don't Sell Out Your Own Home For A Private Company To Profit
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
