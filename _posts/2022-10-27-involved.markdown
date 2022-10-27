@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Get Involved"
+description: Sign our Petition and Join our Newsletter
+date:   2022-10-27 10:03:36 +0530
+categories: Petition NoPACT
+---
+Please sign our petition here
+
+```javascript
+placeholder for GoogleForm assets
+```
