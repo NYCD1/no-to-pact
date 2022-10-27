@@ -4,7 +4,7 @@ title:  "You Lose Your Rights with PACT"
 date:   2022-10-26 10:03:36 +0530
 ---
 
-NYCHA tenants have special protections that disappear when a development goes through PACT. Your NYCHA lease is replaced with a voucherm and you to the right to:
+NYCHA tenants have special protections that disappear when a development goes through PACT. Your NYCHA lease is replaced with a voucher and you lose the right to:
 >* Organize tenants to demand changes. 
 >
 >* Prevent eviction by having a fair hearing (ex. if your income changes, you could lose your voucher and get evicted without the ability for apeal).
