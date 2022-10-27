@@ -24,7 +24,7 @@ texture:
     - title: Home
       url: '/index.html'
     - title: Get Involved
-      url: 'posts/involved/'
+      url: '/posts/involved/'
 
   # generate social links in footer
   social_links:
