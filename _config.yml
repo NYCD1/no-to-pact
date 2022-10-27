@@ -38,7 +38,7 @@ texture:
   #- index.html
 
 # Build settings
-theme: texture
+# theme: texture
 remote_theme: samarsault/texture
 plugins:
   - jekyll-seo-tag
